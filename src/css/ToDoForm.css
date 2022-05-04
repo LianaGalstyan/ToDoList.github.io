@@ -1,0 +1,20 @@
+.form {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.input {
+    padding: 13px 30px;
+    border-color: bisque;
+    outline: none;
+    border-radius: 4px;
+}
+
+button {
+    margin-left: 15px;
+    padding: 14px;
+    border: none;
+    background-color: brown;
+    color: wheat;
+    border-radius: 4px;
+}

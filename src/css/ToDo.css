@@ -1,0 +1,24 @@
+.item-todo {
+    background-color: brown;
+    color: wheat;
+    max-width: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 13px;
+    border-radius: 4px;
+    margin: 12px;
+    margin-left: 37%;
+}
+
+.item-text {
+    cursor: pointer;
+}
+
+.strike {
+    text-decoration: line-through;
+}
+
+.item-delete {
+    cursor: pointer;
+}
